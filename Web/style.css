@@ -1,0 +1,95 @@
+body {
+  background-color: aqua;
+
+}
+header {
+  height: auto;
+  width: auto;
+  background-image: url('images/header.JPG');
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font: italic small-caps bold 16px/2 cursive;
+  font-size: 40px;
+  margin-right: -20px;
+  margin-left: -20px;
+  margin-top: -60px;
+  padding: 20px;
+  box-shadow: 15px 20px 10px black;
+
+}
+main {
+  padding: 10px;
+  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainpage {
+  background: linear-gradient(#e66465, #9198e5);
+  width: auto;
+  height: 600px;
+  border-radius: 20px;
+  box-shadow: 15px 20px 10px black;
+
+}
+.addpage {
+  background-color: white;
+
+}
+.brokenheart {
+  margin-top: 30px;
+  margin-left: 220px;
+  width: 100px;
+  height: 100px;
+}
+nav ul {
+    list-style-type: none;
+}
+CSS
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+article {
+    margin-bottom: 20px;
+}
+article img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f1f1f1;
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
